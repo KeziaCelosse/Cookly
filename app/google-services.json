@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685840087766",
+    "project_id": "cooklyppbm",
+    "storage_bucket": "cooklyppbm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685840087766:android:9ea73c7361f45276ce2777",
+        "android_client_info": {
+          "package_name": "com.example.cookly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL8HxsccAL7YwHWRk6wvnsvL1aBybLWrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
